@@ -9,4 +9,4 @@ In Task Manager, click the "Services" tab at the top, then the "Open Services" t
 
 
 ### Instructions
-Download the two files (.ini and .png) into a zip, extract them into a folder (say "OVRtoggle") in your C:\Users\[user]\Documents\Rainmeter\Skins folder (or wherever you save your skins).  Then just load the skin in Rainmeter.
+Download the two files (.ini and .png) into a zip, extract them into a folder (say "OVRtoggle") in your C:\Users\\[user]\Documents\Rainmeter\Skins folder (or wherever you save your skins).  Then just load the skin in Rainmeter.
